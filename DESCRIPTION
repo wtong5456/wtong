@@ -1,0 +1,10 @@
+Package: wtong
+Title: William's useful functions
+Version: 0.0.0.9000
+Authors@R: person("William", "Tong", email = "william.tong@outlook.com.au", role = c("aut", "cre"))
+Description: A collection of useful functions.
+Depends: R (>= 3.4.4)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
